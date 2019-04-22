@@ -1,11 +1,11 @@
 {
-  "name": "react-diff-component",
+  "name": "react-diff-simple-component",
   "version": "1.0.0",
   "description": "Highlight differences between inputs",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/actuallydan/react-diff-component.git"
+    "url": "https://github.com/actuallydan/react-diff-simple-component.git"
   },
   "keywords": [
     "react",
@@ -15,9 +15,9 @@
   "author": "Dan Kral <dankral01@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/actuallydan/react-diff-component/issues"
+    "url": "https://github.com/actuallydan/react-diff-simple-component/issues"
   },
-  "homepage": "https://github.com/actuallydan/react-diff-component",
+  "homepage": "https://github.com/actuallydan/react-diff-simple-component",
   "peerDependencies": {
     "react": ">=0.12.0"
   },
